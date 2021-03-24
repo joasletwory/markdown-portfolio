@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Most of the time I code with these languages:
+* PHP
+* JavaScript
+* CSS
